@@ -2,9 +2,9 @@
 
 Load the Extension in Burp:
 
-- Open Burp Suite Professional.
-- Go to the Extender tab.
-- In the Extensions sub-tab, click Add.
+- Open Burp Suite.
+- Go to the Extensions tab.
+- In the Extensions sub-tab "Installed", click Add on the left side.
 - In the popup:
   - Extension type: Select "Python".
   - Extension file: Browse to your answer_highlighter.py file (for example: extensions/answer_highlighter.py).
